@@ -1,2 +1,1 @@
-# figma-ornek
-figma ile oluşturduğum örnek site
+# Burak-Sezer-ortak
